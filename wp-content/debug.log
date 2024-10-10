@@ -1,0 +1,1 @@
+[10-Oct-2024 18:14:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 1982
